@@ -1,0 +1,23 @@
+.box1{
+    border: 2px;
+    border-top-style: solid;
+    border-top-color:  red;
+    
+}
+.box2{
+    border: 2px;
+    border-top-style: solid;
+    border-top-color:  blue;
+    
+}
+.box3{
+    border: 2px;
+    border-top-style: solid;
+    border-top-color:  green;
+    
+}
+.box4{
+    border: 2px;
+    border-top-style: solid;
+    border-top-color:  yellow;
+}

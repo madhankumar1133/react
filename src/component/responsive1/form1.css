@@ -1,0 +1,11 @@
+.formbgimage
+{
+    /* background-image: url(https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat; */
+    height: 80vh;
+    width: 100%;
+    /* background-size: cover; */
+}
+.fobtnfirst{
+    border: none;
+}
